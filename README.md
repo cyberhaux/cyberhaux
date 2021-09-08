@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [sarthakpriyadarshi.tech](sarthakpriyadarshi.tech)
+- 👨‍💻 All of my projects are available at <a href="http://sarthakpriyadarshi.tech"/>my website </a>
 
 - 💬 Ask me about **HTML, CSS, JS**
 
