@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A young Techy!</h3>
 
 <p align="center" "> <img src="https://komarev.com/ghpvc/?username=cyberhaux&label=Profile%20views&color=345b63&style=flat-square" alt="cyberhaux" /> 
 <a href="https://twitter.com/sarthakpr" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakpr?logo=twitter&style=for-the-badge" alt="sarthakpr" /></a></p>
@@ -16,15 +16,16 @@
 
 - ⚡ Fun fact **I am still learning!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="dev.to icon.svg" alt="sarthakpr" height="25" width="35" style="fill: #555;"/></a>
-<a href="https://twitter.com/sarthakpr" target="blank"><img align="center" src="twitter.svg" alt="sarthakpr" height="25" width="35" /></a>
-<a href="https://instagram.com/https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.svg" alt="https://instagram.com/sarthak.pr" height="25" width="35" /></a>
-<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.svg" alt="cyberhauxx" height="30" width="35" /></a>
+<h3 align="left">CONNECT WITH ME AT:</h3>
+<p align="center">
+<a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="dev.to icon.svg" alt="sarthakpr" height="55" width="55"/></a>&ensp;
+<a href="https://twitter.com/sarthakpr" target="blank"><img align="center" src="twitter.svg" alt="sarthakpr" height="35" width="55" /></a>&ensp;
+<a href="https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.svg" alt="sarthak.pr" height="35" width="35" /></a>&ensp;&ensp;
+<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.svg" alt="cyberhauxx" height="45" width="55" /></a>&ensp;
 </p>
-
-<h3 align="center">I am good at:</h3>
+<br><br>
+<h3 align="left">I AM GOOD AT:</h3>
+<br><br>
 <p align="left">
 <h4 align="left">Frontend Web Development:</h4>
 <p align="center">
@@ -58,7 +59,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 </p>
-
+<h3 align="left">MY STATS:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberhaux&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&layout=compact" alt="cyberhaux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberhaux&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&hide=commits" alt="cyberhaux" /></p>
