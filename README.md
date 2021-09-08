@@ -60,7 +60,7 @@
 </p>
 </p>
 <h3 align="left">MY STATS:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberhaux&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&layout=compact" alt="cyberhaux" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberhaux&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&layout=compact" alt="cyberhaux" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberhaux&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&hide=commits" alt="cyberhaux" /></p>
+<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberhaux&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&hide=commits" alt="cyberhaux" /></p>
 
