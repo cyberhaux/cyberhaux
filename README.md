@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">A young Techy!</h3>
 
-<p align="center" "> <img src="https://komarev.com/ghpvc/?username=cyberhaux&label=Profile%20views&color=345b63&style=flat-square" alt="cyberhaux" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyberhaux&label=Profile%20views&color=345b63&style=flat-square" alt="cyberhaux" /> 
 <a href="https://twitter.com/sarthakpr" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakpr?logo=twitter&style=for-the-badge" alt="sarthakpr" /></a></p>
-
-<p align="left">  </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<p align="left">  
 
 - 🌱 I’m currently learning **MySQL**
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **sarthak@sarthakpriyadarshi.tech**
 
 - ⚡ Fun fact **I am still learning!**
-
+</p>
 <h3 align="left">CONNECT WITH ME AT:</h3>
 <p align="center">
 <a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="dev.to icon.svg" alt="sarthakpr" height="55" width="55"/></a>&ensp;
