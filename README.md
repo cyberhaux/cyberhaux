@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarthakpr" height="25" width="35" style="fill: #555;"/></a>
-<a href="https://twitter.com/sarthakpr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthakpr" height="25" width="35" /></a>
-<a href="https://instagram.com/https://instagram.com/sarthak.pr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/sarthak.pr" height="25" width="35" /></a>
-<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberhauxx" height="25" width="35" /></a>
+<a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="dev.to icon.svg" alt="sarthakpr" height="25" width="35" style="fill: #555;"/></a>
+<a href="https://twitter.com/sarthakpr" target="blank"><img align="center" src="twitter.svg" alt="sarthakpr" height="25" width="35" /></a>
+<a href="https://instagram.com/https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.svg" alt="https://instagram.com/sarthak.pr" height="25" width="35" /></a>
+<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberhauxx" height="30" width="35" /></a>
 </p>
 
 <h3 align="center">Languages that I am good at:</h3>
