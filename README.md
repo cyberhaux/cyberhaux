@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at <a href="http://blog.sarthakpriyadarshi.tech"/>my website </a>
+- 👨‍💻 All of my projects are available at <a href="http://blog.sarthakpriyadarshi.works"/>my website </a>
 
 - 💬 Ask me about **HTML, CSS, JS**
 
-- 📫 How to reach me **sarthak@sarthakpriyadarshi.tech**
+- 📫 How to reach me **sarthak@sarthakpriyadarshi.works**
 
 - ⚡ Fun fact **I am still learning!**
 </p>
