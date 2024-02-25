@@ -18,10 +18,10 @@
 </p>
 <h3 align="left">CONNECT WITH ME AT:</h3>
 <p align="center">
-<a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="dev.to icon.svg" alt="sarthakpr" height="55" width="55"/></a>&ensp;
-<a href="https://linkedin.com/in/sarthakpriyadarshi" target="blank"><img align="center" src="linkedin.png" alt="sarthakpr" height="45" width="45" /></a>&ensp;
-<a href="https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.svg" alt="sarthak.pr" height="35" width="35" /></a>&ensp;&ensp;
-<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.png" alt="cyberhauxx" height="45" width="45" /></a>&ensp;
+<a href="https://discordapp.com/users/754670749322706944" target="blank"><img align="center" src="discord.png" alt="sarthakpr" height="45" width="45"/></a>&ensp;&ensp;&ensp;
+<a href="https://linkedin.com/in/sarthakpriyadarshi" target="blank"><img align="center" src="linkedin.png" alt="sarthakpr" height="45" width="45" /></a>&ensp;&ensp;&ensp;
+<a href="https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.png" alt="sarthak.pr" height="45" width="45" /></a>&ensp;&ensp;&ensp;
+<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.png" alt="cyberhauxx" height="45" width="45" /></a>&ensp;&ensp;&ensp;
 </p>
 <br><br>
 <h3 align="left">I AM GOOD AT:</h3>
