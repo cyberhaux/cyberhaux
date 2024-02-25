@@ -6,11 +6,11 @@
 <img align="right" alt="Coding" width="400" src="main-animation.gif">
 <p align="left">  
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Penetration Testing from OffSec**
 
-- 👨‍💻 All of my projects are available at <a href="http://sarthakpriyadarshi.works/blog"/>my website </a>
+- 👨‍💻 All of my projects are available at <a href="https://sarthakpriyadarshi.works/blog/"/>My Website </a>
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 Ask me about **Penetration Testing, Ethical Hacking and Vulnerability Assessment**
 
 - 📫 How to reach me **sarthak@sarthakpriyadarshi.works**
 
