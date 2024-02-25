@@ -21,7 +21,7 @@
 <a href="https://dev.to/sarthakpr" target="blank"><img align="center" src="dev.to icon.svg" alt="sarthakpr" height="55" width="55"/></a>&ensp;
 <a href="https://twitter.com/sarthakpr" target="blank"><img align="center" src="twitter.svg" alt="sarthakpr" height="35" width="55" /></a>&ensp;
 <a href="https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.svg" alt="sarthak.pr" height="35" width="35" /></a>&ensp;&ensp;
-<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.svg" alt="cyberhauxx" height="45" width="55" /></a>&ensp;
+<a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube-color-svgrepo-com.svg" alt="cyberhauxx" height="45" width="55" /></a>&ensp;
 </p>
 <br><br>
 <h3 align="left">I AM GOOD AT:</h3>
