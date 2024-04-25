@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">A young Techy!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cyberhaux&label=Profile%20views&color=345b63&style=flat-square" alt="cyberhaux" /> 
-<a href="https://twitter.com/sarthakpr" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakpr?logo=twitter&style=for-the-badge" alt="sarthakpr" /></a></p>
-<img align="right" alt="Coding" width="400" src="main-animation.gif">
+<img align="left" alt="Coding" width="400" src="main-animation.gif">
 <p align="left">  
 
 - 🌱 I’m currently learning **Penetration Testing from OffSec**
@@ -17,7 +15,7 @@
 - ⚡ Fun fact **I am still learning!**
 </p>
 <h3 align="left">CONNECT WITH ME AT:</h3>
-<p align="center">
+<p align="left">
 <a href="https://discordapp.com/users/754670749322706944" target="blank"><img align="center" src="discord.png" alt="sarthakpr" height="45" width="45"/></a>&ensp;&ensp;&ensp;
 <a href="https://linkedin.com/in/sarthakpriyadarshi" target="blank"><img align="center" src="linkedin.png" alt="sarthakpr" height="45" width="45" /></a>&ensp;&ensp;&ensp;
 <a href="https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.png" alt="sarthak.pr" height="45" width="45" /></a>&ensp;&ensp;&ensp;
@@ -60,7 +58,6 @@
 </p>
 </p>
 <h3 align="left">MY STATS:</h3>
-<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakpriyadarshi&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&layout=compact" alt="cyberhaux" /></p><br>
+<p align='left'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakpriyadarshi&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&layout=compact" alt="cyberhaux" /></p><br>
 
-<p align='center'>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakpriyadarshi&show_icons=true&theme=dracula&title_color=d4ecdd&text_color=d4ecdd&bg_color=112031&hide_border=true&locale=en&hide=commits" alt="cyberhaux" /></p>
 
