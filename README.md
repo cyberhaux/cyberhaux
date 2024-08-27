@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">A young Techy!</h3>
 
-<img align="left" alt="Coding" width="400" src="Untitled-1.gif">
+<img align="left" alt="Coding" width="400" src="main-animation.gif">
 <p align="left">  
 
 - 🌱 I’m currently learning **Penetration Testing from OffSec**
