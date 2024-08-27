@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">A young Techy!</h3>
 
-<img align="left" alt="Coding" width="400" src="main-animation.gif">
+<img align="left" alt="Coding" width="400" src="Untitled-1.gif">
 <p align="left">  
 
 - 🌱 I’m currently learning **Penetration Testing from OffSec**
 
-- 👨‍💻 All of my projects are available at <a href="https://sarthakpriyadarshi.works/blog/"/>My Website </a>
+- 👨‍💻 All of my projects are available at <a href="https://cyberol.codes/blog/"/>My Website </a>
 
 - 💬 Ask me about **Penetration Testing, Ethical Hacking and Vulnerability Assessment**
 
-- 📫 How to reach me **sarthak@sarthakpriyadarshi.works**
+- 📫 How to reach me **sarthak@cyberol.codes**
 
 - ⚡ Fun fact **I am still learning!**
 </p>
