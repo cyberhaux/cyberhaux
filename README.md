@@ -46,7 +46,7 @@
 <br>
 <br>
 <img align="left" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/Programming-Sequence.gif?raw=true">
-<h4 align="left">Programming:</h4>
+<h4 align="left">Coding:</h4>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
