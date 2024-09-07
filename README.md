@@ -25,6 +25,7 @@
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/HTML-Programming.gif?raw=true">
 <h3 align="left">I AM GOOD AT:</h3>
+<br>
 <p align="left">
 <h4 align="left">Frontend Web Development</h4>
 <p align="center">
