@@ -26,7 +26,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/HTML-Programming.gif?raw=true">
 <h3 align="left">I AM GOOD AT:</h3>
 <p align="left">
-<h4 align="left">Frontend Web Development:</h4>
+<h4 align="left">Frontend Web Development</h4>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -35,7 +35,7 @@
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-<h4 align="left">Backend Web Development:</h4>
+<h4 align="left">Backend Web Development</h4>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
@@ -46,14 +46,14 @@
 <br>
 <br>
 <img align="left" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/Programming-Sequence.gif?raw=true">
-<h4 align="left">Coding:</h4>
+<h4 align="left">Coding</h4>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
-<h4 align="left">Others:</h4>
+<h4 align="left">Others</h4>
 <p align="left">
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
