@@ -22,10 +22,10 @@
 <a href="https://instagram.com/sarthak.pr" target="blank"><img align="center" src="instagram.png" alt="sarthak.pr" height="45" width="45" /></a>&ensp;&ensp;&ensp;
 <a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.png" alt="cyberhauxx" height="45" width="45" /></a>&ensp;&ensp;&ensp;
 </p>
-<br><br>
-<h3 align="left">I AM GOOD AT:</h3>
 <br>
+<h3 align="left">I AM GOOD AT:</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/HTML-Programming.gif?raw=true">
+<br><br><br>
 <p align="left">
 <h4 align="center">Frontend Web Development:</h4>
 <p align="center">
