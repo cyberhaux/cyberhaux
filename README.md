@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">A young Techy!</h3>
 
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/sarthakpriyadarshi/sarthakpriyadarshi/main/main-animation.gif"><h4 align="center">Coding:</h4>n.gif">
+<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/sarthakpriyadarshi/sarthakpriyadarshi/main/main-animation.gif">
 <p align="left">  
 
 - 🌱 I’m currently learning **Penetration Testing from OffSec**
