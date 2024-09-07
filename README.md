@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/c/cyberhauxx" target="blank"><img align="center" src="youtube.png" alt="cyberhauxx" height="45" width="45" /></a>&ensp;&ensp;&ensp;
 </p>
 <br>
-<h3 align="left">I AM GOOD AT:</h3>
+<h3 align="center">I AM GOOD AT:</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/HTML-Programming.gif?raw=true">
 <br><br><br>
 <p align="left">
