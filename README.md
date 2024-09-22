@@ -32,15 +32,16 @@
 <a href="#" target="_blank"> <img src="html.svg" alt="html5" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img src="css.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="js.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="#" target="_blank"> <img src="react.svg" alt="react" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> 
 </p>
 <h4 align="center">Backend Web Development:</h4>
 <p align="center">
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="nodejs.svg" alt="nodejs" width="50" height="50"/> </a>
+<a href="#" target="_blank"> <img src="expressjs.svg" alt="expressjs" width="50" height="50"/> </a>
+<a href="#" target="_blank"> <img src="mongodb.svg" alt="mongodb" width="50" height="50"/> </a>
+<a href="#" target="_blank"> <img src="mysql.svg" alt="mysql" width="50" height="50"/> </a>
+
 </p>
 </p>
 <br><br><br><br><br>
