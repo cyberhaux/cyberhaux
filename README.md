@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak!</h1>
 <h3 align="center">A young Techy!</h3>
 
-<img align="left" alt="Coding" width="400" src="https://raw.githubusercontent.com/sarthakpriyadarshi/sarthakpriyadarshi/main/main-animation.gif">
+<img align="left" alt="Coding" width="400" src="main-animation.gif">
 <p align="left">  
 
 - 🌱 I’m currently learning **Penetration Testing from OffSec**
@@ -24,7 +24,7 @@
 </p>
 <br>
 <h3 align="center">I AM GOOD AT:</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/HTML-Programming.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="HTML-Programming.gif">
 <br><br><br>
 <p align="left">
 <h4 align="center">Frontend Web Development:</h4>
@@ -45,15 +45,15 @@
 </p>
 </p>
 <br><br><br><br><br>
-<img align="left" alt="Coding" width="400" src="https://github.com/sarthakpriyadarshi/sarthakpriyadarshi/blob/main/Programming-Sequence.gif?raw=true">
+<img align="left" alt="Coding" width="400" src="Programming-Sequence.gif">
 <br>
 <p>
 <h4 align="center">Coding:</h4>
 <p align="center">
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="c.svg" alt="c" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="java.svg" alt="java" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="python.svg" alt="python" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img src="android.svg" alt="android" width="40" height="40"/> </a> 
 </p>
 <h4 align="center">Others:</h4>
 <p align="center">
